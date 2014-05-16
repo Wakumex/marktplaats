@@ -1,0 +1,61 @@
+*{
+   font-family: arial; 
+   margin: auto;
+   margin-top: 2px;
+}
+
+#hoofdbox {
+    height: 20px;
+    width: 100%;
+    background-color: #D1D1D1;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+.box1 {
+    height: auto;
+    width: 100%;
+    border-bottom: solid 1px;
+    overflow: auto;
+    background-color: azure;
+    float: left;
+}
+.links{
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    float: left;
+}
+.rechts{
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
+#wrapper {
+    width: 800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+    border: solid black 1px;
+}
+.plaatjes img{
+    width: 160px;
+    height: auto;
+    padding: 2px;
+    margin-left: 3px;
+}
+.plaatjes label{
+    margin-left: 10px;
+}
+#hoofdbox label{
+    padding-right: 100px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+h1{
+    padding: 10px;
+}
+
